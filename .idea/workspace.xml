@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9fb2297-99d4-4a5e-868b-309dd77a0e3b" name="Changes" comment="" />
+    <list default="true" id="a9fb2297-99d4-4a5e-868b-309dd77a0e3b" name="Changes" comment="Proyecto Terminado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "svegasibaja"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "github.com/svegasibaja/ConversorMonedas.git",
+    "accountId": "44120674-fcd6-4bfd-8e91-072527331cfe"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/ConvertidorMoneda.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/Principal.java" root0="SKIP_INSPECTION" />
@@ -56,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729370833051</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto Terminado">
+      <option name="closed" value="true" />
+      <created>1729379046192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729379046192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto Terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto Terminado" />
   </component>
 </project>
